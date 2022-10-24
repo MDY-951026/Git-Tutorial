@@ -1,1 +1,3 @@
 print("hello worldworldowlrod")
+
+이거 나 고치고싶어 ㅠ 근데 어떻게 고치나염?????
